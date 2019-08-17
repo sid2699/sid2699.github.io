@@ -1,0 +1,3 @@
+dns_host : { github };
+ip_redirect : { 201.48.192.120 };
+.code
